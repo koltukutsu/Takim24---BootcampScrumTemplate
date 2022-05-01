@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:hesap/pages/ana_ekran.dart';
 import 'package:hesap/theme/themes.dart';
 import 'package:hesap/util/theme_manager.dart';
 
@@ -14,7 +15,7 @@ class HesapApp extends StatelessWidget {
       theme: lightTheme,
       darkTheme: darkTheme,
       themeMode: _themeManager.themeMode,
-      home: Text(""),
+      home: AnaSayfa(),
     );
   }
 }
