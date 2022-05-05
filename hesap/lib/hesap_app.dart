@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:hesap/pages/ana_ekran.dart';
+import 'package:hesap/pages/giris_ekran.dart';
 import 'package:hesap/theme/themes.dart';
 import 'package:hesap/util/theme_manager.dart';
 
@@ -12,10 +12,11 @@ class HesapApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Hesap',
+      debugShowCheckedModeBanner: false,
       theme: lightTheme,
       darkTheme: darkTheme,
       themeMode: _themeManager.themeMode,
-      home: AnaSayfa(),
+      home: GirisEkran(),
     );
   }
 }
