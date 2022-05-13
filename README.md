@@ -1,6 +1,7 @@
 # **24**
 
 ## Takım 24
+ [Kod ile ilgili private repomuz](https://github.com/koltukutsu/OvA-Hesap)
 
 ### Takım Elemanları
 
