@@ -62,24 +62,26 @@ Story'ler ile yapılacak Task' ler arasında bağlantı kurulmuştur. Yeşil iş
 [Sprint 1 Daily Scrum Chats](https://docs.google.com/document/d/1xWYkas4XSHj8-oF33DGUGv9DfgmpO52ZIYFE0ZeMpYM/edit?usp=sharing)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_1/sprint_board1.png) 
-![Backlog 2](https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_1/sprint_board2.png)
+<img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_1/sprint_board1.png" width="600"/>
+<img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_1/sprint_board2.png" width="600"/>
 
 - **Ürün Durumu**: Ekran görüntüleri:
 
   **Kullanıcı Girişi Sayfası** 
-  ![Screenshot 1](https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_1/1.jpg)
+  
+  <img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_1/1.jpg" width="350"/>
   
   **Üye Ol Sayfası**
-  ![Screenshot 2](https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_1/2.jpg)
+
+  <img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_1/2.jpg" width="350"/>
   
   **Ana Sayfa**
   
-  ![Screenshot 3](https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_1/anasayfa.png)
+  <img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_1/anasayfa.png" width="350"/>
   
   **Sipariş Ekranı**
   
-  ![Screenshot 4](https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_1/siparis_ekrani.png)
+  <img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_1/siparis_ekrani.png" width="350"/>
 
 - **Sprint Review**: 
   - Görevler takım olarak verilen ortak kararlar doğrultusunda başarılı bir şekilde tamamlandı.
@@ -98,6 +100,50 @@ Story'ler ile yapılacak Task' ler arasında bağlantı kurulmuştur. Yeşil iş
 
 # Sprint 2
 
+- **Sprint Notları**: Bu sprintte 2 adet story ve storylere bağlı olmayan 4 adet görev bulunmaktadır. Sprintteki tüm görevler açıklamaları ile beraber detaylı olarak Jira da yer almaktadır.
+
+  [Jira Backlog](https://docs.google.com/document/d/1uZu4yMkMTafENntHkRpXQ-o8e36IdYss/edit?usp=sharing&ouid=116158011470839221900&rtpof=true&sd=true)
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 140 Puan
+
+- **Puan tamamlama mantığı**: Proje boyunca toplamda tamamlanması gereken 380 puanlık backlog bulunmaktadır. Projemiz 3 Sprint' e bölünmüştür. İkinci sprinte 140 puan atanmıştır. 
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde görevlerin tahmini zorluk derecesine göre puan atamaları yapılmıştır. Story başına çıkan tahmin puanı, toplam puanın yarısına eşit veya az tutulmuştur.
+
+Story'ler ile yapılacak Task' ler arasında bağlantı kurulmuştur. Yeşil işaretli issuelar Story' lerdir, mavi işaretli issuelar ise Task' lerdir.
+
+- **Daily Scrum**: Daily Scrum toplantılarının Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantıları Google Sheets Word dosyası olarak Readme'de tarafımızdan paylaşılmaktadır. Her güne ait toplantı notları tarihlere tıklanması durumunda görüntülenebilir: 
+[Sprint 1 Daily Scrum Chats](https://docs.google.com/document/d/1xWYkas4XSHj8-oF33DGUGv9DfgmpO52ZIYFE0ZeMpYM/edit?usp=sharing)
+
+- **Sprint board update**: Sprint board screenshotları: 
+
+<img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_2/sprint2_board1.png" width="600"/>
+<img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_2/sprint2_board2.png" width="600"/>
+
+- **Ürün Durumu**: Ekran görüntüleri:
+
+  **QR Kod Okutma Ekranı** 
+  
+  <img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_2/qr_okutmaekrani.jpg" width="350"/>
+  
+  **Pop Up**
+  
+  <img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_2/pop_up.png" width="350"/>
+
+- **Sprint Review**:
+  - Görevler başarılı bir şekilde atanan kişiler tarafından tamamlandı. 
+  - Cubit yapısına uygun şekilde kodların düzenlenmesine karar verildi.
+  - Kodlama üzerine toplantı düzenlendi. Bu toplantıların devam etmesine karar verildi.
+  - Uygulamanın fonksiyonel temel ekranları tamamlandı.
+  - Kaynak paylaşımlarıyla kodlama üzerine bilgi edinildi.
+
+- **Sprint Retrospective:**
+  - Takım üyeleri sorumluluklarını başarıyla yerine getirdi.
+  - Tahmin puanları ile tamamlanan puanlar birbiriyle eş değer olarak tamamlandı.
+  - Uygulama her takım üyesi tarafından deneme amaçlı çalıştırıldı. 
+  - Ek fikirler tartışıldı. Zamanın yetmesi durumunda ek fikirlerin görev olarak eklenmesine karar verildi.
+  - Takım elemanları kodlama için birbirine büyük ölçüde yardımda bulundu.
+  - Tasarımla ilgili ilk sprinte göre daha çok fikir bütünlüğü sağlandı.
 
 ---
 
