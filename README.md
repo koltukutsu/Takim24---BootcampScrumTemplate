@@ -52,7 +52,7 @@ Proje Yönetimi sürecinde uygulama olarak Jira kullanılmıştır. Jira da Road
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Puan tamamlama mantığı**: Proje boyunca toplamda tamamlanması gereken 380 puanlık backlog bulunmaktadır. Projemiz 3 Sprint' e bölünmüştür ve ilk Sprint' e 100 puan atanmıştır. 
+- **Puan tamamlama mantığı**: Proje boyunca toplamda tamamlanması gereken 430 puanlık backlog bulunmaktadır. Projemiz 3 Sprint' e bölünmüştür ve ilk Sprint' e 100 puan atanmıştır. 
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde görevlerin tahmini zorluk derecesine göre puan atamaları yapılmıştır. Story başına çıkan tahmin puanı, toplam puanın yarısına eşit veya az tutulmuştur.
 
