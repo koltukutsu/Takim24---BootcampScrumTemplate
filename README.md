@@ -59,7 +59,7 @@ Proje Yönetimi sürecinde uygulama olarak Jira kullanılmıştır. Jira da Road
 Story'ler ile yapılacak Task' ler arasında bağlantı kurulmuştur. Yeşil işaretli issuelar Story' lerdir, mavi işaretli issuelar ise Task' lerdir.
 
 - **Daily Scrum**: Daily Scrum toplantılarının Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantıları Google Sheets Word dosyası olarak Readme'de tarafımızdan paylaşılmaktadır. Her güne ait toplantı notları tarihlere tıklanması durumunda görüntülenebilir: 
-[Sprint 1 Daily Scrum Chats](https://docs.google.com/document/d/1xWYkas4XSHj8-oF33DGUGv9DfgmpO52ZIYFE0ZeMpYM/edit?usp=sharing)
+[Daily Scrum Chats](https://docs.google.com/document/d/1xWYkas4XSHj8-oF33DGUGv9DfgmpO52ZIYFE0ZeMpYM/edit?usp=sharing)
 
 - **Sprint board update**: Sprint board screenshotları: 
 <img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_1/sprint_board1.png" width="600"/>
@@ -113,7 +113,7 @@ Story'ler ile yapılacak Task' ler arasında bağlantı kurulmuştur. Yeşil iş
 Story'ler ile yapılacak Task' ler arasında bağlantı kurulmuştur. Yeşil işaretli issuelar Story' lerdir, mavi işaretli issuelar ise Task' lerdir.
 
 - **Daily Scrum**: Daily Scrum toplantılarının Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantıları Google Sheets Word dosyası olarak Readme'de tarafımızdan paylaşılmaktadır. Her güne ait toplantı notları tarihlere tıklanması durumunda görüntülenebilir: 
-[Sprint 1 Daily Scrum Chats](https://docs.google.com/document/d/1xWYkas4XSHj8-oF33DGUGv9DfgmpO52ZIYFE0ZeMpYM/edit?usp=sharing)
+[Daily Scrum Chats](https://docs.google.com/document/d/1xWYkas4XSHj8-oF33DGUGv9DfgmpO52ZIYFE0ZeMpYM/edit?usp=sharing)
 
 - **Sprint board update**: Sprint board screenshotları: 
 
