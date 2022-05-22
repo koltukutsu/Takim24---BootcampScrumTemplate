@@ -2,6 +2,8 @@
 
 ## Takım 24
  [Kod ile ilgili private repomuz](https://github.com/koltukutsu/OvA-Hesap)
+ 
+- Tüm akademi asistanlarına davetiye gönderilmiştir.
 
 ### Takım Elemanları
 
