@@ -129,6 +129,11 @@ Story'ler ile yapılacak Task' ler arasında bağlantı kurulmuştur. Yeşil iş
   **Pop Up**
   
   <img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_2/pop_up.png" width="350"/>
+  
+  **Sepet Ekranı**
+  
+  <img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_2/sepet_ekrani.jpeg" width="350"/>
+
 
 - **Sprint Review**:
   - Görevler başarılı bir şekilde atanan kişiler tarafından tamamlandı. 
