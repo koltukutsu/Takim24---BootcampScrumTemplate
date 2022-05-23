@@ -130,9 +130,14 @@ Story'ler ile yapılacak Task' ler arasında bağlantı kurulmuştur. Yeşil iş
   
   <img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_2/pop_up.png" width="350"/>
   
+  **Güncel Restoran Sayfası**
+  
+  <img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_2/Restoran%20sayfas%C4%B1%20G%C3%BCncel.png" width="350"/>
+  
   **Sepet Ekranı**
   
   <img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_2/sepet_ekrani.jpeg" width="350"/>
+  
 
 
 - **Sprint Review**:
