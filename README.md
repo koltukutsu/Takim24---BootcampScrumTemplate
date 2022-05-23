@@ -119,6 +119,7 @@ Story'ler ile yapılacak Task' ler arasında bağlantı kurulmuştur. Yeşil iş
 
 <img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_2/sprint2_board1.png" width="600"/>
 <img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_2/sprint2_board2.png" width="600"/>
+<img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_2/sprint2_board3.png" width="600"/>
 
 - **Ürün Durumu**: Ekran görüntüleri:
 
