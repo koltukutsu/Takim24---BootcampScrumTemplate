@@ -194,6 +194,7 @@ Story'ler ile yapılacak Task' ler arasında bağlantı kurulmuştur. Yeşil iş
   - Uygulama tamamen çalışır duruma getirildi.
   - Bulunan buglar üzerine tartışıldı ve gerekli düzenlemeler yapıldı.
   - Github main kodlama toplantısında beraber düzenlendi.
+  - Toplam 380 puan olan proje tam puanla tamamlandı.
 
 - **Sprint Retrospective:**
   - Tahmin puanları ile tamamlanan puanlar birbiriyle eş değer olarak tamamlandı.
