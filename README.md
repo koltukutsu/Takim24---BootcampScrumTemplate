@@ -160,4 +160,48 @@ Story'ler ile yapılacak Task' ler arasında bağlantı kurulmuştur. Yeşil iş
 
 # Sprint 3
 
+- **Sprint Notları**: Bu sprintte 3 adet story bulunmaktadır. Sprintteki tüm görevler açıklamaları ile beraber detaylı olarak Jira da yer almaktadır.
+
+  [Jira Backlog](https://docs.google.com/document/d/1uZu4yMkMTafENntHkRpXQ-o8e36IdYss/edit?usp=sharing&ouid=116158011470839221900&rtpof=true&sd=true)
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 140 Puan
+
+- **Puan tamamlama mantığı**: Proje boyunca toplamda tamamlanması gereken 380 puanlık backlog bulunmaktadır. Projemiz 3 Sprint' e bölünmüştür. Üçüncü sprinte 140 puan atanmıştır. 
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde görevlerin tahmini zorluk derecesine göre puan atamaları yapılmıştır. Story başına çıkan tahmin puanı, toplam puanın yarısına eşit veya az tutulmuştur.
+
+Story'ler ile yapılacak Task' ler arasında bağlantı kurulmuştur. Yeşil işaretli issuelar Story' lerdir, mavi işaretli issuelar ise Task' lerdir.
+
+- **Daily Scrum**: Daily Scrum toplantılarının Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantıları Google Sheets Word dosyası olarak Readme'de tarafımızdan paylaşılmaktadır. Her güne ait toplantı notları tarihlere tıklanması durumunda görüntülenebilir: 
+[Daily Scrum Chats](https://docs.google.com/document/d/1xWYkas4XSHj8-oF33DGUGv9DfgmpO52ZIYFE0ZeMpYM/edit?usp=sharing)
+
+- **Sprint board update**: Sprint board screenshotları: 
+
+<img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_3/sprint3_board1.png" width="600"/>
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+
+  **Ödeme Ekranı**
+  
+  <img src="" width="350"/>
+  
+
+
+- **Sprint Review**:
+  - Görevler başarıyla tamamlandı. 
+  - Kodlama üzerine toplantılar düzenlendi.
+  - Uygulama tamamen çalışır duruma getirildi.
+  - Bulunan buglar üzerine tartışıldı ve gerekli düzenlemeler yapıldı.
+  - Github main kodlama toplantısında beraber düzenlendi.
+
+- **Sprint Retrospective:**
+  - Tahmin puanları ile tamamlanan puanlar birbiriyle eş değer olarak tamamlandı.
+  - Uygulama her takım üyesi tarafından deneme amaçlı çalıştırıldı. 
+  - Bir önceki sprintte tartışılan ek görevler başarıyla tamamlandı.
+  - Takım elemanları kodlama için birbirine büyük ölçüde yardımda bulundu.
+  - Birlikte yapılan kodlama toplantıları verimli şekilde gerçekleştirildi.
+  - Proje başarıyla tamamlandı.
+
+
 ---
