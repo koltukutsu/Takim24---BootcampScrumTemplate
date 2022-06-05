@@ -177,6 +177,7 @@ Story'ler ile yapılacak Task' ler arasında bağlantı kurulmuştur. Yeşil iş
 
 - **Sprint board update**: Sprint board screenshotları: 
 
+<img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_3/sprint3_board0.png" width="600"/>
 <img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_3/sprint3_board1.png" width="600"/>
 
 
