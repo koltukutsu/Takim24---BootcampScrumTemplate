@@ -215,6 +215,13 @@ Story'ler ile yapılacak Task' ler arasında bağlantı kurulmuştur. Yeşil iş
   
   **Ödeme Ekranı**
   
+  <img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_3/%C3%B6deme3.jpg" width="350"/>
+  
+  <img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_3/%C3%B6deme2.jpg" width="350"/>
+  
+  <img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_3/%C3%B6deme1.jpg" width="350"/>
+  
+  
   **Örnek QR Kodlar**
   
   **Restoran1:**
