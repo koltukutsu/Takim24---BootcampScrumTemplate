@@ -187,7 +187,15 @@ Story'ler ile yapılacak Task' ler arasında bağlantı kurulmuştur. Yeşil iş
   
   <img src="" width="350"/>
   
-
+  **Örnek QR Kodlar**
+  
+  **Restoran1:**
+  
+  <img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_3/restoran1.png" width="300"/>
+  
+  **Restoran2:**
+  
+  <img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_3/restoran2.png" width="300"/>
 
 - **Sprint Review**:
   - Görevler başarıyla tamamlandı. 
