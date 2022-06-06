@@ -1,7 +1,7 @@
 # **24**
 
 ## Takım 24
- [Kod ile ilgili private repomuz](https://github.com/koltukutsu/OvA-Hesap)
+ [Kod ile ilgili repomuz](https://github.com/koltukutsu/OvA-Hesap)
  
 - Tüm akademi asistanlarına davetiye gönderilmiştir.
 
