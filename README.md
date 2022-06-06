@@ -183,9 +183,37 @@ Story'ler ile yapılacak Task' ler arasında bağlantı kurulmuştur. Yeşil iş
 
 - **Ürün Durumu**: Ekran görüntüleri:
 
-  **Ödeme Ekranı**
+  **Profil Ekranı**
   
-  <img src="" width="350"/>
+  <img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_3/profil_ekran%C4%B1.jpg" width="350"/>
+  
+  **Menü Ekranı**
+  
+  <img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_3/men%C3%BC_ekran%C4%B1.jpg" width="350"/>
+  
+  **Garson Çağırma Ekranı**
+  
+  <img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_3/garson%20butonu.jpg" width="350"/>
+  
+  **Kart Ekleme ve Kayıtlı Kartlar Ekranları**
+  
+  <img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_3/kartekle.jpg" width="350"/>
+  
+  <img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_3/kay%C4%B1tl%C4%B1%20kartlar.jpg" width="350"/>
+  
+  **Masaya Otur ve Kalk Ekranları**
+  
+  <img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_3/masada%20oturanlar.jpg" width="350"/>
+  
+  <img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_3/masadan%20kalk.jpg" width="350"/>
+  
+  
+  **Güncel Sepet Ekranı**
+  
+  <img src="https://github.com/koltukutsu/Takim24---BootcampScrumTemplate/blob/main/ProjeY%C3%B6netimi/Sprint_3/sepetg%C3%BCncel.jpg" width="350"/>
+
+  
+  **Ödeme Ekranı**
   
   **Örnek QR Kodlar**
   
